@@ -22,8 +22,12 @@ Run ``test_run.py`` to conduct an initial state.
 # Versions:
 
 Required MathWorks Products
--    MATLAB release R2022a
+-    MATLAB release R2023b
+-    Simulink
+-    SimScape Electrical
+-    SimScape Fluids
 
 Required 3rd Party Products
 
--   Python 3.8 or 3.9 
+-   Python 
+-   For matlab and python integration, please refer to [https://pypi.org/project/matlabengine/23.2.3/](https://pypi.org/project/matlabengine/23.2.3/)
