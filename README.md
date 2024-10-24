@@ -11,6 +11,14 @@ After you've installed poetry, you can install partx by running the following co
 poetry install
 ```
 
+# Models
+
+1. Matlab Model: ``test_fan_aircooling_3.slx``
+2. Python Model: ``pythonBatteryModel.py``
+
+Run ``test_run.py`` to conduct an initial state.
+
+
 # Versions:
 
 Required MathWorks Products
