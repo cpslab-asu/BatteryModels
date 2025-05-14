@@ -1,4 +1,4 @@
-# Code for Pys-TaLiRo
+# Code for Psy-TaLiRo
 
 
 # Installation
